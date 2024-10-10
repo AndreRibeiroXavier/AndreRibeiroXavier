@@ -1,4 +1,4 @@
-## Eai pessoal! Bem-vindos ao meu Github!
+## Fala Pessoal! Bem-vindos ao meu Github!
 
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 André Xavier | 💻 Assistente de T.I |👽 Brasil <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
