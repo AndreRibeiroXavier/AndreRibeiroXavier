@@ -1,9 +1,11 @@
-## Hi there 👋
+## Eai pessoal! Bem-vindos ao meu Github!!
 
-<!--
-**AndreRibeiroXavier/AndreRibeiroXavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats
 
-Here are some ideas to get you started:
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;"> 
+<a href="https://github.com/AndreRibeiroXavier/AndreRibeiroXavier/blob/main/README.md">
+  <img height=200 width=400 title ="AndreRibeiroXavier GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AndreRibeiroXavier&show_icons=true&theme=midnight-purple&hide_border=true" />
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
