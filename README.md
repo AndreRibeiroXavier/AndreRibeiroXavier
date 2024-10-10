@@ -8,6 +8,6 @@
 
   ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)]([https://www.linkedin.com/in/andr%C3%A9-xavier-672a90226/](https://www.linkedin.com/in/andr%C3%A9-xavier-672a90226/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/andr%C3%A9-xavier-672a90226/)
 
 
