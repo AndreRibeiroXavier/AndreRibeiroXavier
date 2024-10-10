@@ -12,6 +12,13 @@
   <a href="https://www.instagram.com/drexavier.1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
+<div align="center">
+<img src="https://img.icons8.com/color/32/000000/html-5.png" alt="HTML" width="32"/>
+<img src="https://img.icons8.com/color/32/000000/sql.png" alt="HTML" width="32"/>
+<img src="https://img.icons8.com/color/32/000000/processor.png" alt="HTML" width="32"/>
+  
+</div>
+
 </div>
 
 ## 📊 GitHub Stats
