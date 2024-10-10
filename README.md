@@ -1,6 +1,10 @@
 ## Eai pessoal! Bem-vindos ao meu Github!
 
 <div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 André Xavier | 💻 Assistente de T.I |👽 Brasil <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</div>
+
+<div align="center">
   
   
 
@@ -10,6 +14,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/andr%C3%A9-xavier-672a90226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/drexavier.1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://open.spotify.com/user/cf2hydc7i8hixzsy7kvgvg4z8?si=2aa7af27e7214aa7"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
 </div>
 
 <div align="center">
