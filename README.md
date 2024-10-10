@@ -1,4 +1,4 @@
-## Eai pessoal! Bem-vindos ao meu Github!!
+## Eai pessoal! Bem-vindos ao meu Github!
 
 ![zetrystan-gengar](https://github.com/user-attachments/assets/7e97de43-da45-4e49-9c96-a145abcead06)
 
